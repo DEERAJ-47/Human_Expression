@@ -3,6 +3,14 @@
 This project is created using machine learning algorithm and computer vision. 
 Language:- python. 
 
+
+
+
+This project is basically use to detect the human emotions based on there facial expression and facial movements
+
+Extract note download the dataset from kaggle link is provided in dataset.md
+
+
 ## Getting started
 
 To make it easy for you to get started with GitLab, here's a list of recommended next steps.
